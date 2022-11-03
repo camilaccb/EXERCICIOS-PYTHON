@@ -1,0 +1,1 @@
+# Faça um programa que receba a base e a altura do triângulo e imprima a área dele
