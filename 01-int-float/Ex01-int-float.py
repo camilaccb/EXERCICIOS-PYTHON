@@ -1,4 +1,3 @@
-# Exercicio 1 
 # Faça um programa que receba dois números inteiros do usuário, A e B e imprima na tela as seguintes opções 
 # A soma de A e B 
 # A diferença, quando se subtrai B de A 
