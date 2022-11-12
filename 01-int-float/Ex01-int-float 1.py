@@ -7,7 +7,6 @@
 # O resultado de log10 de A 
 # O resultado de A elevado a B 
 
-
 A = int(input('1º número inteiro: '))
 B = int(input('2º número inteiro: '))
 
