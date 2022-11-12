@@ -36,4 +36,3 @@ else:
 
 
 
-# print('Barulho não identificado')
