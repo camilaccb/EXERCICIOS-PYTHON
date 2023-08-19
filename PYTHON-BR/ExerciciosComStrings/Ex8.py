@@ -7,7 +7,8 @@ Faça um programa que leia uma seqüência de caracteres, mostre−a e diga se �
 
 '''
 
-texto = input("Insira o texto em letras minúsculas: ")
+texto = input("Insira o texto: ")
+texto = texto.replace(" ","").upper()
 textoInvertido = texto[::-1]
 
 print(textoInvertido)
